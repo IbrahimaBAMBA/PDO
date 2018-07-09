@@ -1,0 +1,96 @@
+html{
+    font-size: 15px;
+}
+.btn{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.alert-dismissible{
+    padding-right: 0;
+}
+.card-header{
+    margin-bottom: 20px;
+}
+h1, h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 18px;
+}
+.clientsCard{
+    border: 2px solid red; 
+    text-align: center;
+    margin: 2px;
+    width: 288px;
+    height: 180px;
+}
+span{
+    font-weight: bold;
+}
+.clientList{
+    border: 2px solid red;
+    width: 288px;
+    height: 100%;
+}
+.clientsEx4{
+    border: 2px solid red;
+    width: 600px;
+    height: 100%; 
+}
+.clientsEx6{
+    border: 2px solid red;
+    width: 500px;
+    height: 100%; 
+}
+.backgroundStyle, .response{
+    border: 2px solid #9B9B9B;
+    background-color: #ECECEC;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.titlePart2{
+    color: black;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.redMessage{
+    color: red;
+    text-align: center;
+}
+.regex{
+    color: red;
+    text-align: center;
+}
+.separate{
+    border-top: 2px solid #9B9B9B;
+}
+.consigne{
+    padding: 25px;
+    border: 2px solid #9B9B9B;
+    background-color: #ECECEC;
+    margin: 25px;
+}
+.buttonCube{
+    border: 2px solid #ECECEC;
+    background-color: #9B9B9B;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.buttonCube p{
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: #ECECEC;
+}
+.messageRDV{
+    text-align: center;
+}
